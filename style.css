@@ -65,7 +65,7 @@ main {
 .header__box {
     width: 50%;
     text-align: left;
-    margin-left: 10%;
+    padding-left: 10%;
 }
 
 .header__logo {
@@ -431,7 +431,7 @@ main {
 
 .form__contact {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     flex-wrap: wrap;
     width: 100%;
     margin: 0 auto;
@@ -452,7 +452,6 @@ main {
 }
 
 .form__contact_position {
-    margin-left: 10%;
     margin-right: 80px;
     width: 527px;
 }
